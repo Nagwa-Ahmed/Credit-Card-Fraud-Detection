@@ -1,0 +1,7 @@
+pandas==2.2.2
+matplotlib==3.7.5
+numpy==1.26.4
+sklearn==1.2.2
+opendatasets==0.1.22
+scipy==1.14.0
+
