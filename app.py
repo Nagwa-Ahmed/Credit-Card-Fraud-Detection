@@ -2,7 +2,7 @@ import numpy as np
 
 nums=np.random.rand(30)
 
-print(nums)
+#print(nums)
 
 from joblib import load
 
